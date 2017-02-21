@@ -1,0 +1,20 @@
+{
+  "name": "requestAnimationFrame",
+  "version": "1.0.0",
+  "description": "requestAnimationFrame ===================== > requestAnimationFrame polyfill by [Erik Möller](https://twitter.com/erikjmoller).",
+  "main": "requestAnimationFrame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imefisto/requestAnimationFrame.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imefisto/requestAnimationFrame/issues"
+  },
+  "homepage": "https://github.com/imefisto/requestAnimationFrame#readme"
+}
